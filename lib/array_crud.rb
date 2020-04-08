@@ -8,8 +8,8 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-array = ["hello", "goodbye"]
-element = "farewell"
+array = ["hello", "goodbye", "later", "farewell"]
+element = "bye"
 array << element
 end
 
