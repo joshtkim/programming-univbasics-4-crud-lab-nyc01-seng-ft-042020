@@ -3,7 +3,7 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array = ["hello", "goodbye"]
+  array = ["hello", "goodbye", "later", "farewell"]
 
 end
 
