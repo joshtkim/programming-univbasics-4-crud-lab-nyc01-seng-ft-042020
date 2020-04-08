@@ -10,7 +10,7 @@ end
 def add_element_to_end_of_array(array, element)
 array = ["hello", "goodbye"]
 element = "farewell"
-array.shift element
+array << element
 end
 
 def add_element_to_start_of_array(array, element)
